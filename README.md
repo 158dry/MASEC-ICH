@@ -1,6 +1,6 @@
 MASEC-ICH
 
-Pretrained model weights for the Morphology-Aware State-Conditioned Evidence Collaboration framework for intracranial hemorrhage segmentation.
+Trained model checkpoints for the Morphology-Aware State-Conditioned Evidence Collaboration framework for intracranial hemorrhage segmentation.
 
 Available models
 
